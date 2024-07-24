@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Assasins Creed",
+    "price": 59.99,
+    "image": "images/assasins creed.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Brawlhalla",
+    "price": 49.99,
+    "image": "images/brawlhalla.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lost Ark",
+    "price": 39.99,
+    "image": "images/lostark.jpg"
+  }
+]
